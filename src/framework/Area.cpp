@@ -11,6 +11,8 @@
 
 #include "Area.h"
 
+#include <limits>
+
 #include <iomanip>
 #include <sstream>
 
